@@ -1,4 +1,4 @@
-# Switch Router Lab
+# Switch Router 
 
 Source file: `Switch Router.pkt` — 2× 2960-24TT switches, 1 router, 6 PCs, 1 Power Distribution Device.
 
